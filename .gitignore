@@ -13,3 +13,16 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# go modules
+go.sum
+
+# go grpc
+*.pb.go
+
+# go grpc-gateway
+*.pb.gw.go
+
+# goland
+.idea
+
